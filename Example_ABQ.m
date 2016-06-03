@@ -1,6 +1,6 @@
 % clear all
 % close all
-% clc
+clc
 
 % read mass and stiffness matrix from file
 %M = generate_matrix_from_mtx_file('Beam_3_element_FORMAT_COORDINATE_MASS2.mtx');
